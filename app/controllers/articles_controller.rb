@@ -27,4 +27,8 @@ class ArticlesController < ApplicationController
   def destroy #removing entry from database
 
   end 
+
+  def landing #homepage/landing page
+
+  end
 end
